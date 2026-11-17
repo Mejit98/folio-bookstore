@@ -1,0 +1,16 @@
+# зависимости и сборка
+node_modules/
+dist/
+build/
+# секреты и локальные настройки
+.env
+.env.*
+!.env.example
+# загруженные рукописи
+server/uploads/*
+!server/uploads/.gitkeep
+# служебные файлы
+.DS_Store
+*.log
+.vscode/
+.idea/
