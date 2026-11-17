@@ -25,7 +25,7 @@ folio-bookstore/
 
 ## Быстрый старт
 
-Требования: Node.js 18+, npm, MongoDB (локально или Atlas).
+Требования: Node.js, npm, MongoDB (локально или Atlas).
 
 ```bash
 # сервер
